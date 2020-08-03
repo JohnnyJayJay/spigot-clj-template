@@ -1,14 +1,16 @@
 # spigot-template
 
-A Leiningen template for FIXME.
+A Leiningen template for Spigot plugins written in Clojure.
+
+I'm not sure why you'd want to do this to yourself, but this gives you some help.
 
 ## Usage
 
-FIXME
+`lein new spigot-clj project-name`
 
 ## License
 
-Copyright © 2020 FIXME
+Copyright © 2020 JohnnyJayJay
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
