@@ -1,0 +1,7 @@
+name: {{simple-name}}
+main: {{package}}.{{class}}
+version: "0.1.0-SNAPSHOT"
+
+commands:
+  clj:
+    description: Run a command in Clojure.
